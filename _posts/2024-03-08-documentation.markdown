@@ -19,7 +19,7 @@ title:  "IU Alumni Project Technical Documentation"
 ### Overview <a name="Overview"></a>
 Welcome to the technical documentation for the IU Alumni project. The IU Alumni project is designed to help university students keep track of events, register for elective courses, manage attendance, and request passes for various university-related purposes. This documentation is split into two main sections: one for regular users and one for developers. 
 
-## Technologies
+### Technologies
 - Frontend: Next.js, React
 - Backend: Python FastAPI, PostgreSQL
 - Deployment: Docker
