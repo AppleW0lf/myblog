@@ -27,7 +27,7 @@ Before you can start using the IU Alumni project, you will need to log in or reg
 If you already have an account, you can log in. Enter your email address and password, and then click on the **Continue** button.
 
 <p align="center">
-  <img src="https://github.com/AppleW0lf/myblog/tree/main/images/Screenshot_9.png" />
+  <img src="./images/Screenshot_9.png" />
 </p>
 
 ### Registering
