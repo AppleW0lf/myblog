@@ -17,6 +17,24 @@ title:  "IU Alumni Project Technical Documentation"
 Welcome to the technical documentation for the IU Alumni project. The IU Alumni project is designed to help university students keep track of events, register for elective courses, manage attendance, and request passes for various university-related purposes. This documentation is split into two main sections: one for regular users and one for developers. 
 
 
+## Getting Started
+
+Before you can start using the IU Alumni project, you will need to log in or register.
+
+### Logging In
+
+If you already have an account, you can log in. Enter your email address and password, and then click on the **Continue** button.
+
+<p align="center">
+  <img src="assets/Screenshot_8.png" />
+</p>
+
+### Registering
+
+If you do not have an account, you can register by clicking on the **Register** link. Enter your email address, create a password, and then click on the **Continue** button.
+
+Once you have logged in or registered, you will be able to access all of the features of the IU Alumni project.
+
 ## Regular Users <a name="Regular-Users"></a>
 
 ### User Guide <a name="User-Guide "></a>
