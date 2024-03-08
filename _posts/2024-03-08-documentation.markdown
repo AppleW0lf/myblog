@@ -4,7 +4,7 @@ title:  "IU Alumni Project Technical Documentation"
 ---
 
 ## Table of Contents
-
+---
 - [Overview](#Overview)
 - [Regular Users](#Regular-Users)
     - [Pass Requests](#Pass-Requests)
@@ -19,6 +19,8 @@ title:  "IU Alumni Project Technical Documentation"
 ### Overview <a name="Overview"></a>
 Welcome to the technical documentation for the IU Alumni project. The IU Alumni project is designed to help university students keep track of events, register for elective courses, manage attendance, and request passes for various university-related purposes. This documentation is split into two main sections: one for regular users and one for developers. 
 
+---
+
 ### Technologies
 - Frontend: Next.js, React
 - Backend: Python FastAPI, PostgreSQL
@@ -32,7 +34,7 @@ Welcome to the technical documentation for the IU Alumni project. The IU Alumni 
 - Pass Requests: Request a pass to enter the university for different purposes.
 
 ## Getting Started
-
+---
 Before you can start using the IU Alumni project, you will need to log in or register.
 
 ### Logging In
@@ -49,8 +51,8 @@ If you do not have an account, you can register by clicking on the **Register** 
 
 Once you have logged in or registered, you will be able to access all of the features of the IU Alumni project.
 
+---
 ## Regular Users <a name="Regular-Users"></a>
-
 
 #### **Pass Requests** <a name="Pass-Requests"></a>
 
@@ -104,7 +106,7 @@ Below you can see your elective requests history and its status:
   <img src="/myblog/images/Screenshot_12.png" />
 </p>
 
-
+---
 ## Developers <a name="Developers"></a>
 
 ### Setup Instructions <a name="Setup-Instructions"></a>
@@ -147,7 +149,7 @@ Below you can see your elective requests history and its status:
 docker build -t alumni-backend
 docker run -p 8000:8000 -d alumni-backend
 ```
-
+---
 ### Contributing <a name="Contributing"></a>
 
 If you would like to contribute to the IU Alumni project, please follow these guidelines:
@@ -155,7 +157,7 @@ If you would like to contribute to the IU Alumni project, please follow these gu
 1. **Fork the Repository:** Fork the project repository to your GitHub account.
 2. **Make Changes:** Create a new branch for your changes and make the necessary modifications.
 3. **Submit a Pull Request:** Once you are done with your changes, submit a pull request to the main repository.
-
+---
 ### Deployment <a name="Deployment"></a>
 
 To deploy the IU Alumni project on a platform like Vercel, follow these steps:
@@ -163,7 +165,7 @@ To deploy the IU Alumni project on a platform like Vercel, follow these steps:
 1. **Create an Account:** Sign up for an account on Vercel and create a new project.
 2. **Connect to Git:** Connect Vercel to your Git repository where the IU Alumni project is hosted.
 3. **Configure Settings:** Configure the deployment settings as needed and deploy the project.
-
+---
 ## Additional Resources
 
 - [IU Alumni GitHub Repository](https://github.com/TheSharpOwl/inno-alumni-portal)
