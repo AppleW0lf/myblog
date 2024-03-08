@@ -157,6 +157,7 @@ If you would like to contribute to the IU Alumni project, please follow these gu
 1. **Fork the Repository:** Fork the project repository to your GitHub account.
 2. **Make Changes:** Create a new branch for your changes and make the necessary modifications.
 3. **Submit a Pull Request:** Once you are done with your changes, submit a pull request to the main repository.
+
 ---
 ### Deployment <a name="Deployment"></a>
 
@@ -165,6 +166,7 @@ To deploy the IU Alumni project on a platform like Vercel, follow these steps:
 1. **Create an Account:** Sign up for an account on Vercel and create a new project.
 2. **Connect to Git:** Connect Vercel to your Git repository where the IU Alumni project is hosted.
 3. **Configure Settings:** Configure the deployment settings as needed and deploy the project.
+
 ---
 ## Additional Resources
 
