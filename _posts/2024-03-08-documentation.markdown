@@ -55,12 +55,12 @@ Once you have logged in or registered, you will be able to access all of the fea
   <img src="/myblog/images/Screenshot_8.png" />
 </p>
 
-Also you can see your requests history:
+Below you can see your requests history and its status:
 <p align="center">
   <img src="/myblog/images/Screenshot_13.png" />
 </p>
 
-And if click on button **View** you can see all details:
+And if click on button **View** you can see all details and can delete if it not needed:
 <p align="center">
   <img src="/myblog/images/Screenshot_14.png" />
 </p>
@@ -73,6 +73,11 @@ And if click on button **View** you can see all details:
 
 <p align="center">
   <img src="/myblog/images/Screenshot_10.png" />
+</p>
+
+Below you can see your elective requests history and its status:
+<p align="center">
+  <img src="/myblog/images/Screenshot_15.png" />
 </p>
 
 #### **Make a Donation** <a name="Donation"></a>
