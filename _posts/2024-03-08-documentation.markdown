@@ -24,6 +24,12 @@ Welcome to the technical documentation for the IU Alumni project. The IU Alumni 
 - Backend: Python FastAPI, PostgreSQL
 - Deployment: Docker
 
+### Features
+
+- Event Management: Keep up with events happening in the university.
+- Elective Course Registration: Register for elective courses.
+- Attendance Tracking: Track attendance for events and courses.
+- Pass Requests: Request a pass to enter the university for different purposes.
 
 ## Getting Started
 
