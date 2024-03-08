@@ -19,6 +19,11 @@ title:  "IU Alumni Project Technical Documentation"
 ### Overview <a name="Overview"></a>
 Welcome to the technical documentation for the IU Alumni project. The IU Alumni project is designed to help university students keep track of events, register for elective courses, manage attendance, and request passes for various university-related purposes. This documentation is split into two main sections: one for regular users and one for developers. 
 
+## Technologies
+- Frontend: Next.js, React
+- Backend: Python FastAPI, PostgreSQL
+- Deployment: Docker
+
 
 ## Getting Started
 
@@ -93,7 +98,7 @@ And if click on button **View** you can see all details:
 
 ### Setup Instructions <a name="Setup-Instructions"></a>
 
-To set up the IU Alumni project on your local machine, follow these steps:
+## Installing Frontend:
 
 1. **Clone the Repository:** Use Git to clone the IU Alumni repository to your local machine.
 2. Open a shell/command line in this folder
@@ -110,7 +115,7 @@ To set up the IU Alumni project on your local machine, follow these steps:
     npm start
     ```
 
-## How to run not localy
+## Installing Backend
 
 ### Using Python
 1. Open a shell/command line in this folder (better if it was after activating a python virtual env)
