@@ -9,6 +9,8 @@ title:  "IU Alumni Project Technical Documentation"
 - [Regular Users](#Regular-Users)
     - [Pass Requests](#Pass-Requests)
     - [Elective Courses](#Electivec-courses)
+    - [Make a Donation](#Donation)
+    - [Account](#Account)
 - [Developers](#Developers)
     - [Setup Instructions](#Setup-Instructions)
     - [Contributing](#Contributing)
@@ -68,7 +70,7 @@ And if click on button **View** you can see all details:
   <img src="/myblog/images/Screenshot_10.png" />
 </p>
 
-#### **Make a Donation**
+#### **Make a Donation** <a name="Donation"></a>
 
 1. To make a donation, navigate to the **Make Donations** section of the IU Alumni website.
 2. Click on the button **Send Donation Interest** or you can scan QR Code to make donation.
@@ -77,7 +79,7 @@ And if click on button **View** you can see all details:
   <img src="/myblog/images/Screenshot_11.png" />
 </p>
 
-#### **Account**
+#### **Account** <a name="Account"></a>
 
 1. To change your data accounts, go to the **Account** section.
 2. You will be able to see all fields and can change.
