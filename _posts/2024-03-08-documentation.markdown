@@ -46,7 +46,7 @@ Once you have logged in or registered, you will be able to access all of the fea
 2. Fill out the required information and submit your request.
 
 <p align="center">
-  <img src="images/Screenshot_8.png" />
+  <img src="/images/Screenshot_8.png" />
 </p>
 
 #### **Elective Courses** <a name="Electivec-courses"></a>
@@ -56,7 +56,7 @@ Once you have logged in or registered, you will be able to access all of the fea
 3. You can click **View** to see information about elective course.
 
 <p align="center">
-  <img src="images/Screenshot_10.png" />
+  <img src="/images/Screenshot_10.png" />
 </p>
 
 #### **Make a Donation**
@@ -65,7 +65,7 @@ Once you have logged in or registered, you will be able to access all of the fea
 2. Click on the button **Send Donation Interest** or you can scan QR Code to make donation.
 
 <p align="center">
-  <img src="images/Screenshot_11.png" />
+  <img src="/images/Screenshot_11.png" />
 </p>
 
 #### **Account**
@@ -74,7 +74,7 @@ Once you have logged in or registered, you will be able to access all of the fea
 2. You will be able to see all fields and can change.
 
 <p align="center">
-  <img src="images/Screenshot_12.png" />
+  <img src="/images/Screenshot_12.png" />
 </p>
 
 
