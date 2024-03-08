@@ -44,6 +44,8 @@ Once you have logged in or registered, you will be able to access all of the fea
 1. If you need to request a pass for university access, navigate to the **Pass Requests** section.
 2. Fill out the required information and submit your request.
 
+
+![Alt Text](/images/Screenshot_8.png)
 <p align="center">
   <img src="./images/Screenshot_8.png" />
 </p>
@@ -84,8 +86,41 @@ Once you have logged in or registered, you will be able to access all of the fea
 To set up the IU Alumni project on your local machine, follow these steps:
 
 1. **Clone the Repository:** Use Git to clone the IU Alumni repository to your local machine.
-2. **Install Dependencies:** Make sure you have Node.js and npm installed on your machine. Run `npm install` in the project directory to install the necessary dependencies.
-3. **Run the Application:** Use the command `npm start` to run the application locally. You should be able to access it at `http://localhost:3000`.
+2. Open a shell/command line in this folder
+3. To `install` all packages (local to the repo) using `npm`
+    ```bash
+    npm install
+    ```
+4. To `build` the project for production
+    ```bash
+    npm run build
+    ```
+5. To `start` the project on development
+    ```bash
+    npm start
+    ```
+
+## How to run not localy
+
+### Using Python
+1. Open a shell/command line in this folder (better if it was after activating a python virtual env)
+2. Install the needed python packages
+```bash
+    pip install -r requirements.txt
+```
+3. Run the python script:
+```bash
+    python3 main.py
+```
+
+### Using docker
+1. Here the image tag name is `alumni-backend` you can name it as you like
+2. Also the port in docker is 8000 by default and locally you can map it to anything as you like
+
+```bash
+docker build -t alumni-backend
+docker run -p 8000:8000 -d alumni-backend
+```
 
 ### Contributing <a name="Contributing"></a>
 
