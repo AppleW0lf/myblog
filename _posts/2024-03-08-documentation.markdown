@@ -48,6 +48,16 @@ Once you have logged in or registered, you will be able to access all of the fea
   <img src="/myblog/images/Screenshot_8.png" />
 </p>
 
+Also you can see your requests history:
+<p align="center">
+  <img src="/myblog/images/Screenshot_13.png" />
+</p>
+
+And if click on button **View** you can see all details:
+<p align="center">
+  <img src="/myblog/images/Screenshot_14.png" />
+</p>
+
 #### **Elective Courses** <a name="Electivec-courses"></a>
 
 1. To register for elective courses, go to the **Elective Courses** section of the website.
