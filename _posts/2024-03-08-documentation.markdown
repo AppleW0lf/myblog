@@ -24,7 +24,7 @@ Before you can start using the IU Alumni project, you will need to log in or reg
 
 ### Logging In
 
-If you already have an account, you can log in. Enter your email address and password, and then click on the **Continue** button.
+If you already have an account, you can log in. Enter your email address and password, or use Innopolis SSO, and then click on the **Continue** button.
 
 <p align="center">
   <img src="/myblog/images/Screenshot_9.png" />
