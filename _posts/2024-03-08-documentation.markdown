@@ -1,14 +1,16 @@
 ---
 layout: post
 title:  "IU Alumni Project Technical Documentation"
+image: /images/Screenshot_8
 ---
 
 ## Table of Contents
 
 - [Overview](#Overview)
 - [Regular Users](#Regular-Users)
-    - [User Guide](#User-Guide)
-- [Developers](#section-2)
+    - [Pass Requests](#Pass-Requests)
+    - [Elective Courses](#Electivec-courses)
+- [Developers](#Developers)
     - [Setup Instructions](#Setup-Instructions)
     - [Contributing](#Contributing)
     - [Deployment](#Deployment)
@@ -26,7 +28,7 @@ Before you can start using the IU Alumni project, you will need to log in or reg
 If you already have an account, you can log in. Enter your email address and password, and then click on the **Continue** button.
 
 <p align="center">
-  <img src="[https://github.com/AppleW0lf/myblog/images/Screenshot_8.png](https://github.com/AppleW0lf/myblog/tree/main/images/Screenshot_8.png)" />
+  <img src="/images/Screenshot_9.png" />
 </p>
 
 ### Registering
@@ -37,27 +39,44 @@ Once you have logged in or registered, you will be able to access all of the fea
 
 ## Regular Users <a name="Regular-Users"></a>
 
-### User Guide <a name="User-Guide "></a>
 
-#### Events
-
-1. To view and register for events, navigate to the **Events** section of the IU Alumni website.
-2. Click on the event you are interested in and follow the prompts to register.
-
-#### Elective Courses
-
-1. To register for elective courses, go to the **Elective Courses** section of the website.
-2. Select the course you want to register for and complete the registration process.
-
-#### Attendance Tracking
-
-1. To track your attendance at events and courses, go to the **Attendance Tracking** section.
-2. You will be able to see a history of events and courses you have attended.
-
-#### Pass Requests
+#### **Pass Requests** <a name="Pass-Requests"></a>
 
 1. If you need to request a pass for university access, navigate to the **Pass Requests** section.
 2. Fill out the required information and submit your request.
+
+<p align="center">
+  <img src="/images/Screenshot_8.png" />
+</p>
+
+#### **Elective Courses** <a name="Electivec-courses"></a>
+
+1. To register for elective courses, go to the **Elective Courses** section of the website.
+2. Select the course you want to register for and complete the registration process.
+3. You can click **View** to see information about elective course.
+
+<p align="center">
+  <img src="/images/Screenshot_10.png" />
+</p>
+
+#### **Make a Donation**
+
+1. To make a donation, navigate to the **Make Donations** section of the IU Alumni website.
+2. Click on the button **Send Donation Interest** or you can scan QR Code to make donation.
+
+<p align="center">
+  <img src="/images/Screenshot_11.png" />
+</p>
+
+#### **Account**
+
+1. To change your data accounts, go to the **Account** section.
+2. You will be able to see all fields and can change.
+
+<p align="center">
+  <img src="/images/Screenshot_12.png" />
+</p>
+
 
 ## Developers <a name="Developers"></a>
 
