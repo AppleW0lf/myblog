@@ -44,10 +44,8 @@ Once you have logged in or registered, you will be able to access all of the fea
 1. If you need to request a pass for university access, navigate to the **Pass Requests** section.
 2. Fill out the required information and submit your request.
 
-
-![Alt Text](/images/Screenshot_8.png)
 <p align="center">
-  <img src="./images/Screenshot_8.png" />
+  <img src="/myblog/images/Screenshot_8.png" />
 </p>
 
 #### **Elective Courses** <a name="Electivec-courses"></a>
