@@ -27,7 +27,7 @@ Before you can start using the IU Alumni project, you will need to log in or reg
 If you already have an account, you can log in. Enter your email address and password, and then click on the **Continue** button.
 
 <p align="center">
-  <img src="./images/Screenshot_9.png" />
+  <img src="/myblog/images/Screenshot_9.png" />
 </p>
 
 ### Registering
@@ -55,7 +55,7 @@ Once you have logged in or registered, you will be able to access all of the fea
 3. You can click **View** to see information about elective course.
 
 <p align="center">
-  <img src="./images/Screenshot_10.png" />
+  <img src="/myblog/images/Screenshot_10.png" />
 </p>
 
 #### **Make a Donation**
@@ -64,7 +64,7 @@ Once you have logged in or registered, you will be able to access all of the fea
 2. Click on the button **Send Donation Interest** or you can scan QR Code to make donation.
 
 <p align="center">
-  <img src="./images/Screenshot_11.png" />
+  <img src="/myblog/images/Screenshot_11.png" />
 </p>
 
 #### **Account**
@@ -73,7 +73,7 @@ Once you have logged in or registered, you will be able to access all of the fea
 2. You will be able to see all fields and can change.
 
 <p align="center">
-  <img src="/images/Screenshot_12.png" />
+  <img src="/myblog/images/Screenshot_12.png" />
 </p>
 
 
